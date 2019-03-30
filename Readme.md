@@ -1,5 +1,6 @@
 ### Installation
 Clone this repo and follow guide bellow
+
 Install the dependencies and devDependencies and start the server.
 
 ```sh
